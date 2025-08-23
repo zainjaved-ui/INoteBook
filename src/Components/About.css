@@ -1,0 +1,16 @@
+.about-card {
+  border-radius: 16px;
+  background: #fdfdfd;
+}
+
+.about-card h2 {
+  font-weight: 700;
+}
+
+.about-card ul {
+  margin-left: 20px;
+}
+
+.about-card li {
+  margin-bottom: 6px;
+}
